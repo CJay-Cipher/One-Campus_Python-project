@@ -1,3 +1,3 @@
-# Coursera_test
+# Coursera_repos
 
 # This is my first repository
