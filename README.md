@@ -1,3 +1,1 @@
-# Coursera_repo
-
-# This is my first repository
+This is my python project from OneCampus Academy
