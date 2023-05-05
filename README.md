@@ -1,1 +1,1 @@
-This is my python project from OneCampus Academy
+This is my python project at OneCampus Academy
